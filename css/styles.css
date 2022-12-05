@@ -1,0 +1,30 @@
+
+.operadores{
+    display: flex;
+    justify-content: center;
+}
+.logico{
+    width: 70%;
+    background-color: rgb(254, 252, 252);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.and, .or, .not{
+    width: 250PX;    
+    background-color: rgb(199, 248, 199);
+    border: 1px solid gray;
+    border-collapse: collapse;
+
+}
+td, th{
+    border: 1px solid gray;
+   
+}
+th{
+    background-color: rgb(194, 239, 242);
+}
+
+
